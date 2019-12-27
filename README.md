@@ -6,6 +6,7 @@ Poker Winner.py
 Poker Odds.py
 - Given 2 hands (each hand consists of a pair of cards) and an optional set of community cards (0 to 5)
 - Outputs percentage chance of winning for each hand
+- Note: Uses Monte Carlo Method when there are 0 community cards
 
 QGF.py
 - Quantum Go Fish. Rules here: https://stacky.net/wiki/index.php?title=Quantum_Go_Fish
